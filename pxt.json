@@ -1,0 +1,26 @@
+{
+    "name": "trả lời câu hỏi thắng game",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "Dino Hoard": "pub:83156-28404-33492-71911"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "main.py"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "2.0.56",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj"
+}
